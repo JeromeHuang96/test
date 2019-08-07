@@ -5,7 +5,6 @@ public class Main {
     @Test
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
-		System.out.println("成功克隆");
-		System.out.println("瑙ｅ喅涓枃涔辩爜闂!");
+		System.out.println("试用中文");
     }
 }
